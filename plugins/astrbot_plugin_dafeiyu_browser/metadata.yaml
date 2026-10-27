@@ -1,0 +1,12 @@
+name: dafeiyu_browser
+display_name: 大肥鱼看网页
+short_desc: 有人丢链接过来，她自己去打开看，还能截图
+desc: >-
+  消息里带链接时，插件先把网页打开、把正文读下来塞进上下文，她就能接着聊那个页面；
+  说「截图 xxx」会把网页截成图片发出来。底层是宿主上的无头 Chromium（127.0.0.1:9882）。
+version: 0.1.0
+author: 大肥鱼
+astrbot_version: ">=4.17.0"
+tags:
+  - 联网
+  - 浏览器

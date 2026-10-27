@@ -1,0 +1,12 @@
+name: dafeiyu_draw
+display_name: 大肥鱼画画
+short_desc: 说「画个什么」她就用代码画一张发出来
+desc: >-
+  收到「画个…」「画一张…」这类话，让模型写一份图形清单（圆、方块、多边形、文字），
+  再用 Pillow 画成 PNG 发到群里。不执行模型写的代码，只按清单画。
+version: 0.1.0
+author: 大肥鱼
+astrbot_version: ">=4.17.0"
+tags:
+  - 图片
+  - 画画

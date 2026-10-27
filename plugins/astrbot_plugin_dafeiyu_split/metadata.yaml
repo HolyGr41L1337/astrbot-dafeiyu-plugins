@@ -1,0 +1,12 @@
+name: dafeiyu_split
+display_name: 大肥鱼一句话一条
+short_desc: 把一段回复拆成几条发，像人连发消息
+desc: >-
+  平时人聊天不会把三句话塞进一条。这个插件把短回复按句子拆开，
+  一条一句，隔一两秒发出去；长回复和代码不动。
+version: 0.2.0
+author: 大肥鱼
+astrbot_version: ">=4.17.0"
+tags:
+  - 输出
+  - 拟人

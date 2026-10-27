@@ -1,0 +1,12 @@
+name: dafeiyu_proactive
+display_name: 大肥鱼主动说话
+short_desc: 群里安静太久了，她自己判断要不要开口
+desc: >-
+  定时检查群聊冷清多久，按人格判断这个点有没有由头主动说一句。
+  白天才有动静，一天最多两三次，深夜不吵人。
+version: 0.1.0
+author: 大肥鱼
+astrbot_version: ">=4.17.0"
+tags:
+  - 主动
+  - 定时

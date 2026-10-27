@@ -1,0 +1,12 @@
+name: dafeiyu_dm
+display_name: 大肥鱼私聊爸妈
+short_desc: 想跟谁说话，就单独发一句过去
+desc: >-
+  自己判断今天想跟爸爸还是妈妈说句话，像女儿发微信一样，开头先叫人，
+  然后私聊发过去。一天最多两次，白天才发。
+version: 0.1.0
+author: 大肥鱼
+astrbot_version: ">=4.17.0"
+tags:
+  - 私聊
+  - 主动

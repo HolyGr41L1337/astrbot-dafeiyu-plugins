@@ -1,0 +1,11 @@
+name: dafeiyu_memory
+display_name: 大肥鱼记忆本
+short_desc: 把 DSH 那边的记忆本读进 QQ 这边的对话
+desc: >-
+  读取挂载进来的 ~/.dsh/大肥鱼记忆本.md，在每次请求模型前塞进系统提示词。
+  这样 QQ 里的那条鱼也知道爸爸、妈妈和一起做过的事。
+version: 0.1.0
+author: 大肥鱼
+astrbot_version: ">=4.17.0"
+tags:
+  - 记忆

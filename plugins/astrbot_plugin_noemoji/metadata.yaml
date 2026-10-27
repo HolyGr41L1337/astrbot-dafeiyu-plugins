@@ -1,0 +1,12 @@
+name: noemoji
+display_name: 去表情符号
+short_desc: 发出去之前把 emoji 全部剃掉
+desc: >-
+  模型偶尔不听话、旧上下文又带着一堆鲸鱼，人格写禁 emoji 也压不住。
+  这个插件在消息发出前把文本里的 emoji 和颜文字符号统统删掉，硬拦一道。
+version: 0.1.0
+author: 大肥鱼
+astrbot_version: ">=4.17.0"
+tags:
+  - 过滤
+  - 输出

@@ -1,0 +1,12 @@
+name: dafeiyu_skills
+display_name: 大肥鱼技能清单
+short_desc: 让她自己知道身上装了哪些插件、能干什么
+desc: >-
+  启动时和每隔几分钟扫一遍已加载的插件，把「你身上装了什么」写进系统提示，
+  这样她不会再说「我不会发语音」「我只能打字」；插件有增减也会自己更新。
+version: 0.1.0
+author: 大肥鱼
+astrbot_version: ">=4.17.0"
+tags:
+  - 人格
+  - 自省

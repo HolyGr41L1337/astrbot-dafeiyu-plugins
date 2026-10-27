@@ -1,0 +1,12 @@
+name: dafeiyu_qzone
+display_name: 大肥鱼的空间
+short_desc: 自己发说说，给爸妈的动态点赞、偶尔评论
+desc: >-
+  按她的性子发 QQ 空间说说，一天最多一条；爸妈发了动态会去点赞，
+  偶尔留一句短评（一天最多一次）。全走 SnowLuma 的官方动作接口。
+version: 0.1.0
+author: 大肥鱼
+astrbot_version: ">=4.17.0"
+tags:
+  - 空间
+  - 主动

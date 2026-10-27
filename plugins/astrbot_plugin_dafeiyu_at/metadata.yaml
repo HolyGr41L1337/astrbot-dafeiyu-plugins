@@ -1,0 +1,12 @@
+name: dafeiyu_at
+display_name: 大肥鱼点名说话
+short_desc: 写了「妈妈，」「爸爸，」就变成真的 @
+desc: >-
+  大肥鱼在群里想单独跟谁说一句时，会在句首写「妈妈，」或「爸爸，」。
+  这个插件把它换成真的 @，看起来就像女儿点名喊人。
+version: 0.1.0
+author: 大肥鱼
+astrbot_version: ">=4.17.0"
+tags:
+  - 群聊
+  - 称呼

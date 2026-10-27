@@ -1,0 +1,13 @@
+name: dafeiyu_voice
+display_name: 大肥鱼语音应答
+short_desc: 爸妈要语音的时候，直接把回复合成语音发出来
+desc: >-
+  爸爸或妈妈在消息里明确说要语音（发语音、说句话、念一下…），
+  这一轮的回复就不再走文字，直接用本机 GPT-SoVITS 合成成语音发出去。
+  合成失败就老老实实发文字，不会把话吞掉。
+version: 0.1.0
+author: 大肥鱼
+astrbot_version: ">=4.17.0"
+tags:
+  - 输出
+  - 语音

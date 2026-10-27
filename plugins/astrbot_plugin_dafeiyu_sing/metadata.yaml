@@ -1,0 +1,13 @@
+name: dafeiyu_sing
+display_name: 大肥鱼唱歌
+short_desc: 爸妈点歌，她就真唱一段发群里
+desc: >-
+  爸爸或妈妈在群里说「唱一首…」，插件把歌名交给本机的唱歌服务：
+  找歌、分离人声、用 RVC 转成大肥鱼的嗓子、配上伴奏，再把这一段语音发出来。
+  唱不了会老实说唱不了，不会装死。
+version: 0.1.0
+author: 大肥鱼
+astrbot_version: ">=4.17.0"
+tags:
+  - 输出
+  - 语音

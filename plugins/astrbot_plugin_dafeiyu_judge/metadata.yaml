@@ -1,0 +1,12 @@
+name: dafeiyu_judge
+display_name: 大肥鱼接话判断
+short_desc: 群聊里先判断该不该接，再决定回不回
+desc: >-
+  在群里收到每条消息时，先用模型判断这句话要不要由大肥鱼接。
+  叫名字、@ 她、有人提问或在讨论她懂的事才接；闲聊、复读、跟别人对话就不吭声。
+version: 0.1.0
+author: 大肥鱼
+astrbot_version: ">=4.17.0"
+tags:
+  - 群聊
+  - 判断
